@@ -5,6 +5,13 @@
 
 ---
 
+<!-- 🎉 Confetti Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200px" alt="Confetti"/>
+</p>
+
+---
+
 ## 🚀 About Me  
 - 🔭 Currently learning **C Language, Git & GitHub**  
 - 🌱 Exploring **Web Development & Logical Programming**  
@@ -16,16 +23,16 @@
 ## 🛠️ Languages & Tools  
 
 ### 💻 Programming  
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100px"/>  
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100px" alt="C GIF"/>  
 ![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
 ### 🌐 Web  
-<img src="https://media.giphy.com/media/26xBzG0lqY0xX7Y2A/giphy.gif" width="100px"/>  
+<img src="https://media.giphy.com/media/26xBzG0lqY0xX7Y2A/giphy.gif" width="100px" alt="Web GIF"/>  
 ![HTML5](https://img.shields.io/badge/HTML5-FF7F00?style=for-the-badge&logo=html5&logoColor=FFFFFF)  
 ![CSS3](https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 
 ### ⚙ Tools  
-<img src="https://media.giphy.com/media/3o7aD4QJ7Jk2lG3yB2/giphy.gif" width="100px"/>  
+<img src="https://media.giphy.com/media/3o7aD4QJ7Jk2lG3yB2/giphy.gif" width="100px" alt="Tools GIF"/>  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
@@ -55,6 +62,11 @@
 ---
 
 ## 🔥 Fun Extras  
+
+### 🎈 Floating Balloons
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="150px" alt="Balloons"/>
+</p>
 
 ### Visitor Counter  
 <p align="left">
