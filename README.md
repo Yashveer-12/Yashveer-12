@@ -29,6 +29,13 @@
 
 ---
 
+## 💬 Dev Quote
+<p align="center">
+  "💻 Code, ☕ Coffee, 🔄 Debug, 🚀 Repeat!"  
+</p>
+
+---
+
 ## 🔥 Fun Extras  
 
 ### Visitor Counter  
@@ -36,15 +43,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yashveer-12.visitor" alt="Visitor Badge"/>
 </p>
 
-### Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
 ---
 
 ## 📬 Connect With Me  
-📧 Email: **your-email-here@gmail.com**  
+📧 Email: **softly080@gmail.com**  
 🌐 Portfolio (coming soon...)  
 
 ---
