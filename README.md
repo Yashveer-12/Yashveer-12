@@ -29,21 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashveer-12&show_icons=true&theme=radical" height="180px" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yashveer-12&theme=radical&hide_border=true" height="180px" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer-12&layout=compact&theme=radical" height="180px" alt="Top Languages"/>
-</p>
-
----
-
 ## 🔥 Fun Extras  
 
 ### Visitor Counter  
