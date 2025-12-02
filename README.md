@@ -1,6 +1,6 @@
-<!-- ✨ Animated Header -->
+<!-- 🌈 Rainbow Typing Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yashveer!;C+Programmer+%7C+Beginner+Developer;Tech+Enthusiast+%7C+Problem+Solver;Welcome+to+My+GitHub+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Yashveer!;C+Programmer+|+Beginner+Developer;Tech+Enthusiast+|+Problem+Solver;Welcome+to+My+GitHub+Profile!" alt="Typing SVG"/>
 </p>
 
 ---
@@ -16,30 +16,33 @@
 ## 🛠️ Languages & Tools  
 
 ### 💻 Programming  
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F7FF)
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100px"/>  
+![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
 ### 🌐 Web  
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff4000)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00aaff)
+<img src="https://media.giphy.com/media/26xBzG0lqY0xX7Y2A/giphy.gif" width="100px"/>  
+![HTML5](https://img.shields.io/badge/HTML5-FF7F00?style=for-the-badge&logo=html5&logoColor=FFFFFF)  
+![CSS3](https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 
 ### ⚙ Tools  
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff4d4d)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
+<img src="https://media.giphy.com/media/3o7aD4QJ7Jk2lG3yB2/giphy.gif" width="100px"/>  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 ---
 
 ## 📊 GitHub Stats (Dark Mode)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashveer-12&show_icons=true&theme=midnight-purple" height="180px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashveer-12&show_icons=true&theme=radical" height="180px" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yashveer-12&theme=tokyonight-duo&hide_border=true" height="180px" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Yashveer-12&theme=radical&hide_border=true" height="180px" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer-12&layout=compact&theme=midnight-purple" height="180px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer-12&layout=compact&theme=radical" height="180px" alt="Top Languages"/>
 </p>
 
 ---
@@ -66,8 +69,8 @@
 ---
 
 ## 📬 Connect With Me  
-📧 Email: **softly080@gmail.com**  
-🌐 Portfolio (coming soon...)
+📧 Email: **your-email-here@gmail.com**  
+🌐 Portfolio (coming soon...)  
 
 ---
 
