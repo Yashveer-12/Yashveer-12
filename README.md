@@ -44,13 +44,6 @@
 
 ---
 
-## ⚡ Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yashveer-12/Yashveer-12/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
-
 ## 🔥 Fun Extras  
 
 ### Visitor Counter  
